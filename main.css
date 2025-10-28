@@ -1,0 +1,10 @@
+.button-container {
+    text-align: center; /* Centers the buttons within the div */
+}
+
+button {
+    padding: 12px 24px; /* Increases the space inside the buttons */
+    font-size: 16px;    /* Makes the text inside the buttons larger */
+    margin: 8px;        /* Adds some space around each button */
+    cursor: pointer;    /* Changes the mouse cursor to a pointer on hover */
+}
